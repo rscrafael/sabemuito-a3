@@ -1,0 +1,33 @@
+{
+  "name": "sabemuito-a3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Projeto desenvolvido para a avaliação A3 da matéria de Sistemas Distribuidos e Mobile. Trata-se de um back-end que gerencia os estudos de um usuário.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasCoiado/sabemuito-a3.git"
+  },
+  "keywords": [
+    "estudos",
+    "provas",
+    "trabalhos",
+    "back-end",
+    "node"
+  ],
+  "author": "Nicolas Coiado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasCoiado/sabemuito-a3/issues"
+  },
+  "homepage": "https://github.com/NicolasCoiado/sabemuito-a3#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.3"
+  }
+}
