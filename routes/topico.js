@@ -14,4 +14,5 @@ routes.get("/topico/:id_usuario",  (req, res, error) => {
     });
 });
 
+
 export default routes;
